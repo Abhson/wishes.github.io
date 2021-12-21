@@ -12,7 +12,7 @@
 <body>
 
     <div class="header">
-        <form action="http://localhost:4000/www/wish.php" class="header-content" id="input-box">
+        <form action="https://abhson.github.io/wishes.github.io" class="header-content" id="input-box">
             <input type="text" name="name" class="user-input " placeholder="Enter your name"><br>
             <input type="submit" class="user-input" >
             <!-- <button class="header-content create user-input" >create</button> -->
